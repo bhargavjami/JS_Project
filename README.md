@@ -14,8 +14,10 @@ It can parse and execute a simple expression-based programming language.
 
 ## Run
 
-```bash
+```
 npm start
+```
 
+---
 
 Author: Bhargav Jami
