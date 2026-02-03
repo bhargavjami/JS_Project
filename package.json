@@ -1,0 +1,9 @@
+{
+  "name": "egg-plus-interpreter",
+  "version": "1.0.0",
+  "description": "Mini programming language interpreter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
